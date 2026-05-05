@@ -21,6 +21,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: nginx:1.0
+        image: swarup98/myapp:v1
         ports:
         - containerPort: 80
